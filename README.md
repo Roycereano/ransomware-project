@@ -1,6 +1,6 @@
 # Ransomware Simulator 🔐💻
 
-## Project Overview: This is a ransomware simulation project that demostrates how files can be encerypted and decrypted using Python scripting. 
+## Project Overview: This is a ransomware simulation project that demonstrates how files can be encerypted and decrypted using Python scripting. 
 
 # This project is strictly for educational purposes and after reading and studying the basics of python and searching for outside resources I was able to write this script. 
 
